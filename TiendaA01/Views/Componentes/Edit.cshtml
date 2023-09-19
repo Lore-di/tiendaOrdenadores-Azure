@@ -1,0 +1,69 @@
+﻿@model TiendaA01.Models.Componente
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h3>Editar</h3>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="Calor" class="control-label"></label>
+                <input asp-for="Calor" class="form-control" />
+                <span asp-validation-for="Calor" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Descripcion" class="control-label"></label>
+                <input asp-for="Descripcion" class="form-control" />
+                <span asp-validation-for="Descripcion" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Coste" class="control-label"></label>
+                <input asp-for="Coste" class="form-control" />
+                <span asp-validation-for="Coste" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Megas" class="control-label"></label>
+                <input asp-for="Megas" class="form-control" />
+                <span asp-validation-for="Megas" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Cores" class="control-label"></label>
+                <input asp-for="Cores" class="form-control" />
+                <span asp-validation-for="Cores" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Serie" class="control-label"></label>
+                <input asp-for="Serie" class="form-control" />
+                <span asp-validation-for="Serie" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TipoComponente" class="control-label"></label>
+                <select asp-for="TipoComponente" class="form-control" asp-items="Html.GetEnumSelectList<EnumTipoComponente>()">
+                    <option selected="selected" value="">Elige tipo componente</option>
+                </select>
+                <span asp-validation-for="TipoComponente" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="OrdenadorId" class="control-label"></label>
+                <select asp-for="OrdenadorId" class="form-control" asp-items="ViewBag.ListaOrdenadores"></select>
+                <span asp-validation-for="OrdenadorId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Guardar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Volver a componentes</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

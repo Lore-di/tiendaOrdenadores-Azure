@@ -1,0 +1,11 @@
+2023-08-13 12:23:40.9299 INFO Se va a mostrar la lista de componentes
+2023-08-13 12:23:52.5413 INFO Componente encontrado
+2023-08-13 12:24:01.6372 INFO Componente encontrado
+2023-08-13 12:24:53.9532 INFO Componente encontrado
+2023-08-13 12:24:57.0588 INFO Se va a mostrar la lista de componentes
+2023-08-13 12:24:59.0254 INFO Componente encontrado
+2023-08-13 12:25:01.6802 INFO Componente encontrado
+2023-08-13 12:25:04.1110 INFO Se va a mostrar la lista de componentes
+2023-08-13 12:25:06.4504 INFO Componente encontrado
+2023-08-13 12:25:09.0924 INFO Se va a mostrar la lista de componentes
+2023-08-13 12:28:00.8339 INFO Se va a mostrar la lista de componentes

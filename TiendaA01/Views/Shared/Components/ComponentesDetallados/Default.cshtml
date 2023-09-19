@@ -1,0 +1,20 @@
+﻿<h3>Componentes detallados</h3>
+<table class="table">
+    <thead>
+    <tr>
+        <th>Descripción</th>
+        <th>Ordenador</th>
+        <th>Pedido</th>
+    </tr>
+    </thead>
+    <tbody>
+        @foreach (var componente in Model)
+        {
+            <tr>
+                <td>@componente.Descripcion</td>
+                <td>@componente.Ordenador.Descripcion</td>
+                <td>@componente.Ordenador.Pedido.NombrePedido</td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,26 @@
+2023-08-18 13:31:35.2640 INFO Se va a mostrar la lista de componentes
+2023-08-18 13:32:02.1478 INFO Componente añadido
+2023-08-18 13:32:07.8412 INFO Se va a mostrar la lista de componentes
+2023-08-18 13:32:41.8321 INFO Componente añadido
+2023-08-18 13:32:43.4657 INFO Componente añadido
+2023-08-18 13:32:45.1560 INFO Componente añadido
+2023-08-18 13:32:51.5465 INFO Componente añadido
+2023-08-18 13:32:54.6708 INFO Se va a mostrar la lista de componentes
+2023-08-18 15:12:37.1972 INFO Se va a mostrar la lista de componentes
+2023-08-18 15:13:13.7516 INFO Componente añadido
+2023-08-18 15:13:16.0919 INFO Componente añadido
+2023-08-18 15:14:06.0747 INFO Se va a mostrar la lista de componentes
+2023-08-18 15:14:17.9825 INFO Se va a mostrar la lista de componentes
+2023-08-18 15:14:24.7241 INFO Se va a mostrar la lista de componentes
+2023-08-18 16:31:45.5489 INFO Se va a mostrar la lista de componentes
+2023-08-18 16:32:35.4020 INFO Se va a mostrar la lista de componentes
+2023-08-18 16:33:02.3751 INFO Componente añadido
+2023-08-18 16:33:07.0723 INFO Componente añadido
+2023-08-18 16:34:41.2357 INFO Componente añadido
+2023-08-18 16:35:52.9517 INFO Se va a mostrar la lista de componentes
+2023-08-18 16:40:08.5131 INFO Se va a mostrar la lista de componentes
+2023-08-18 16:40:44.9016 INFO Componente añadido
+2023-08-18 16:41:58.9014 INFO Componente añadido
+2023-08-18 16:43:00.1630 INFO Componente añadido
+2023-08-18 16:46:10.4389 INFO Se va a mostrar la lista de componentes
+2023-08-18 16:47:10.8932 INFO Se va a mostrar la lista de componentes

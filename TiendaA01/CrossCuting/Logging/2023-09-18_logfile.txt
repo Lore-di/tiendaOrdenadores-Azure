@@ -1,0 +1,4 @@
+2023-09-18 10:14:15.8298 INFO Se va a mostrar la lista de componentes
+2023-09-18 10:14:22.3357 INFO Se va a mostrar la lista de componentes
+2023-09-18 10:14:25.4266 INFO Se va a mostrar la lista de componentes
+2023-09-18 10:14:29.9933 INFO Se va a mostrar la lista de componentes

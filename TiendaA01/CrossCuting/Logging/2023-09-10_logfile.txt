@@ -1,0 +1,32 @@
+2023-09-10 12:04:35.0473 INFO Se va a mostrar la lista de componentes
+2023-09-10 12:04:46.2819 INFO Se va a mostrar la lista de componentes
+2023-09-10 12:08:02.3800 INFO Se va a mostrar la lista de componentes
+2023-09-10 12:08:44.2858 INFO Se va a mostrar la lista de componentes
+2023-09-10 12:09:00.6547 INFO Se va a mostrar la lista de componentes
+2023-09-10 12:09:34.7904 INFO Se va a mostrar la lista de componentes
+2023-09-10 12:13:05.7506 INFO Se va a mostrar la lista de componentes
+2023-09-10 12:13:46.0045 INFO Se va a mostrar la lista de componentes
+2023-09-10 12:13:54.4000 INFO Se va a mostrar la lista de componentes
+2023-09-10 12:18:32.2525 INFO Se va a mostrar la lista de componentes
+2023-09-10 12:18:42.0241 INFO Se va a mostrar la lista de componentes
+2023-09-10 17:08:23.8909 INFO Pedido encontrado
+2023-09-10 17:08:28.4103 INFO Pedido encontrado
+2023-09-10 17:08:32.0936 INFO Pedido encontrado
+2023-09-10 17:08:35.4854 INFO Pedido encontrado
+2023-09-10 17:08:49.6039 INFO Ordenador encontrado
+2023-09-10 17:08:53.1213 INFO Se va a mostrar la lista de componentes
+2023-09-10 17:08:55.0339 INFO Ordenador encontrado
+2023-09-10 17:09:02.0584 INFO Pedido encontrado
+2023-09-10 17:09:19.0404 INFO Pedido encontrado
+2023-09-10 17:09:44.5635 INFO Ordenador creado
+2023-09-10 17:09:44.8896 INFO El ordenador ha sido añadido
+2023-09-10 17:09:48.5749 INFO Pedido encontrado
+2023-09-10 17:09:54.1352 INFO Ordenador encontrado
+2023-09-10 17:09:55.8402 INFO Ordenador encontrado
+2023-09-10 17:09:55.8847 INFO Ordenador eliminado
+2023-09-10 17:09:55.9652 INFO Ordenador eliminado
+2023-09-10 17:09:57.8644 INFO Se va a mostrar la lista de componentes
+2023-09-10 18:01:28.5494 INFO Se va a mostrar la lista de componentes
+2023-09-10 18:01:50.9056 INFO Se va a mostrar la lista de componentes
+2023-09-10 18:02:06.8368 INFO Pedido encontrado
+2023-09-10 18:02:20.9133 INFO Pedido encontrado

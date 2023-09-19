@@ -1,0 +1,40 @@
+﻿@using TiendaA01.ViewComponents
+@model TiendaA01.Models.Ordenador
+
+@{
+    ViewData["Title"] = "ComponenteDetails";
+}
+
+<h3>Detalles</h3>
+
+<div>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Descripcion)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Descripcion)
+        </dd>
+        @await Component.InvokeAsync("OrdenadorDetallado", new {ordenadorId = Model.Id})
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Pedido)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Pedido.NombrePedido)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model=>model.Componentes)
+        </dt>
+        <dd class="col-sm-10">
+        @foreach (var item in Model.Componentes)
+        {
+                <p>@Html.ActionLink(item.Descripcion, "ComponenteDetails", "Componentes", new { id = item.Id }, null)</p>
+        }
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Editar</a> |
+    <a asp-action="Index">Volver a ordenadores</a>
+</div>

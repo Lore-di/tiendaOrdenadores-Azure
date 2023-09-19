@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2023-09-18T12:10:29.5438901Z"
+    },
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2023-09-15T11:30:11.5261212Z"
+    },
+    "appInsights1": {
+      "restored": true,
+      "restoreTime": "2023-09-15T11:30:12.2423886Z"
+    }
+  },
+  "parameters": {
+    "mssql1.subscriptionId": {
+      "Name": "mssql1.subscriptionId",
+      "Type": "subscription",
+      "Value": "6ea22047-d715-4239-abab-3e4189106f2c"
+    },
+    "appInsights1.resourceGroupName": {
+      "Name": "appInsights1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "TiendaOrdenadores"
+    },
+    "mssql1.resourceGroupName": {
+      "Name": "mssql1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "TiendaOrdenadores"
+    },
+    "appInsights1.subscriptionId": {
+      "Name": "appInsights1.subscriptionId",
+      "Type": "subscription",
+      "Value": "6ea22047-d715-4239-abab-3e4189106f2c"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+C:\parteA\TiendaA01\TiendaOrdenadoresWebApi\TiendaOrdenadoresWebApi\obj\Release\net6.0\linux-x64\TiendaOrdenadoresWebApi.csproj.AssemblyReference.cache
+C:\parteA\TiendaA01\TiendaOrdenadoresWebApi\TiendaOrdenadoresWebApi\obj\Release\net6.0\linux-x64\TiendaOrdenadoresWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\parteA\TiendaA01\TiendaOrdenadoresWebApi\TiendaOrdenadoresWebApi\obj\Release\net6.0\linux-x64\TiendaOrdenadoresWebApi.AssemblyInfoInputs.cache
+C:\parteA\TiendaA01\TiendaOrdenadoresWebApi\TiendaOrdenadoresWebApi\obj\Release\net6.0\linux-x64\TiendaOrdenadoresWebApi.AssemblyInfo.cs
+C:\parteA\TiendaA01\TiendaOrdenadoresWebApi\TiendaOrdenadoresWebApi\obj\Release\net6.0\linux-x64\TiendaOrdenadoresWebApi.csproj.CoreCompileInputs.cache
+C:\parteA\TiendaA01\TiendaOrdenadoresWebApi\TiendaOrdenadoresWebApi\obj\Release\net6.0\linux-x64\TiendaOrdenadoresWebApi.MvcApplicationPartsAssemblyInfo.cache

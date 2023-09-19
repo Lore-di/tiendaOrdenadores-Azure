@@ -1,0 +1,11 @@
+2023-08-19 19:24:10.6438 INFO Se va a mostrar la lista de componentes
+2023-08-19 19:27:15.0842 INFO Se va a mostrar la lista de componentes
+2023-08-19 19:27:41.9119 INFO Pedido añadido
+2023-08-19 19:27:42.1852 INFO Pedido creado
+2023-08-19 19:27:44.9331 INFO Se va a mostrar el pedido
+2023-08-19 19:31:43.3418 INFO Se va a mostrar la lista de componentes
+2023-08-19 19:31:58.4765 INFO Se va a mostrar la lista de componentes
+2023-08-19 19:32:59.8127 INFO Se va a mostrar la lista de componentes
+2023-08-19 19:33:58.9268 INFO Se va a mostrar la lista de componentes
+2023-08-19 19:34:23.4390 INFO Se va a mostrar la lista de componentes
+2023-08-19 19:40:02.6063 INFO Se va a mostrar la lista de componentes

@@ -1,0 +1,7 @@
+2023-08-04 11:27:43.2320 INFO Se va a mostrar la lista de componentes
+2023-08-04 12:12:06.2947 INFO Se va a mostrar la lista de componentes
+2023-08-04 12:12:22.8409 INFO Se va a mostrar la lista de componentes
+2023-08-04 12:12:32.1263 INFO Se va a mostrar la lista de componentes
+2023-08-04 12:17:27.2071 INFO Se va a mostrar la lista de componentes
+2023-08-04 12:17:38.8730 ERROR Error al crear un componente
+2023-08-04 12:18:15.5934 INFO Se va a mostrar la lista de componentes

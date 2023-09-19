@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewData["Title"] = "Inicio";
+}
+
+<div class="header-image">
+    <img src="~/img/Home/TiendaOrdenadores.jpg" alt="imagen de encabezado" />
+</div>
+<div class="header-image"></div>
+<main class="main-content">
+    <div class="flex-container">
+        <div class="feature">
+            <a asp-area="" asp-controller="Componentes" asp-action="Index"><img src="~/img/Home/componentes.jpeg" alt="Componentes"></a>
+            <h3>Componentes</h3>
+        </div>
+        <div class="feature">
+            <a asp-area="" asp-controller="Ordenadores" asp-action="Index"><img src="~/img/Home/ordenadores.jpeg" alt="Portatil"></a>
+            <h3>Ordenadores</h3>
+        </div>
+        <div class="feature">
+            <a asp-area="" asp-controller="Pedidos" asp-action="Index"><img src="~/img/Home/pedidos.jpeg" alt="Montando un pedido"></a>
+            <h3>Pedidos</h3>
+        </div>
+    </div>
+</main>

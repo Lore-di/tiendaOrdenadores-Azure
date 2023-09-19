@@ -1,0 +1,207 @@
+2023-08-25 08:46:36.1341 INFO Se va a mostrar la lista de componentes
+2023-08-25 08:46:59.9250 INFO Se va a mostrar la lista de componentes
+2023-08-25 08:47:05.8683 INFO Pedido encontrado
+2023-08-25 08:47:05.8683 INFO Se va a mostrar el pedido
+2023-08-25 08:47:05.9132 INFO Pedido encontrado
+2023-08-25 08:54:50.5623 INFO Se va a mostrar la lista de componentes
+2023-08-25 08:54:53.3600 INFO Se va a mostrar la lista de componentes
+2023-08-25 08:55:34.8220 INFO Se va a mostrar la lista de componentes
+2023-08-25 08:55:42.3734 INFO Se va a mostrar la lista de componentes
+2023-08-25 08:55:50.2714 INFO Se va a mostrar la lista de componentes
+2023-08-25 08:56:18.3082 INFO Se va a mostrar la lista de componentes
+2023-08-25 08:57:13.5062 INFO Se va a mostrar la lista de componentes
+2023-08-25 08:57:33.9983 INFO Se va a mostrar la lista de componentes
+2023-08-25 08:57:36.9117 INFO Se va a mostrar la lista de componentes
+2023-08-25 08:57:43.2645 INFO Se va a mostrar la lista de componentes
+2023-08-25 08:58:15.0411 INFO Se va a mostrar la lista de componentes
+2023-08-25 08:58:18.1488 INFO Se va a mostrar la lista de componentes
+2023-08-25 08:59:45.6495 INFO Se va a mostrar la lista de componentes
+2023-08-25 09:00:48.5976 INFO Componente encontrado
+2023-08-25 09:02:09.6876 INFO Se va a mostrar la lista de componentes
+2023-08-25 09:29:27.6112 INFO Se va a mostrar la lista de componentes
+2023-08-25 09:29:33.6573 INFO Pedido encontrado
+2023-08-25 09:29:33.6573 INFO Se va a mostrar el pedido
+2023-08-25 09:29:33.7096 INFO Pedido encontrado
+2023-08-25 10:03:16.2768 INFO Se va a mostrar la lista de componentes
+2023-08-25 10:03:26.8668 INFO Pedido encontrado
+2023-08-25 10:03:26.8673 INFO Se va a mostrar el pedido
+2023-08-25 10:03:26.8872 INFO Pedido encontrado
+2023-08-25 10:05:58.3524 INFO Pedido encontrado
+2023-08-25 10:05:58.3524 INFO Se va a mostrar el pedido
+2023-08-25 10:05:58.3705 INFO Pedido encontrado
+2023-08-25 10:06:03.4144 INFO Pedido encontrado
+2023-08-25 10:06:03.4148 INFO Se va a mostrar el pedido
+2023-08-25 10:06:03.4148 INFO Pedido encontrado
+2023-08-25 10:06:50.0765 INFO Pedido encontrado
+2023-08-25 10:06:50.0765 INFO Se va a mostrar el pedido
+2023-08-25 10:06:50.0765 INFO Pedido encontrado
+2023-08-25 10:06:54.9048 INFO Pedido encontrado
+2023-08-25 10:06:54.9048 INFO Se va a mostrar el pedido
+2023-08-25 10:06:54.9159 INFO Pedido encontrado
+2023-08-25 10:06:56.2200 INFO Pedido encontrado
+2023-08-25 10:06:56.2200 INFO Se va a mostrar el pedido
+2023-08-25 10:06:56.2299 INFO Pedido encontrado
+2023-08-25 10:06:57.7238 INFO Se va a mostrar la lista de componentes
+2023-08-25 10:07:16.6776 INFO Se va a mostrar la lista de componentes
+2023-08-25 10:07:20.1137 INFO Se va a mostrar la lista de componentes
+2023-08-25 10:07:21.1306 INFO Se va a mostrar la lista de componentes
+2023-08-25 10:07:21.9482 INFO Se va a mostrar la lista de componentes
+2023-08-25 10:17:25.6751 INFO Se va a mostrar la lista de componentes
+2023-08-25 10:18:12.1599 INFO Se va a mostrar la lista de componentes
+2023-08-25 10:18:20.6009 INFO Se va a mostrar la lista de componentes
+2023-08-25 10:18:53.7650 INFO Se va a mostrar la lista de componentes
+2023-08-25 10:18:55.4760 INFO Se va a mostrar la lista de componentes
+2023-08-25 10:18:57.9983 INFO Se va a mostrar la lista de componentes
+2023-08-25 10:18:59.2017 INFO Se va a mostrar la lista de componentes
+2023-08-25 10:19:02.5273 INFO Se va a mostrar la lista de componentes
+2023-08-25 10:24:28.8915 INFO Se va a mostrar la lista de componentes
+2023-08-25 10:25:49.3046 INFO Se va a mostrar la lista de componentes
+2023-08-25 10:25:55.3609 INFO Se va a mostrar la lista de componentes
+2023-08-25 10:25:57.8070 INFO Se va a mostrar la lista de componentes
+2023-08-25 10:30:03.8393 INFO Se va a mostrar la lista de componentes
+2023-08-25 10:30:17.3652 INFO Se va a mostrar la lista de componentes
+2023-08-25 10:31:52.1632 INFO Se va a mostrar la lista de componentes
+2023-08-25 10:32:42.8977 INFO Pedido encontrado
+2023-08-25 10:32:42.8977 INFO Se va a mostrar el pedido
+2023-08-25 10:32:42.9161 INFO Pedido encontrado
+2023-08-25 10:36:03.4191 INFO Pedido encontrado
+2023-08-25 10:36:03.4191 INFO Se va a mostrar el pedido
+2023-08-25 10:36:03.4457 INFO Pedido encontrado
+2023-08-25 10:37:30.9522 INFO Pedido encontrado
+2023-08-25 10:37:30.9522 INFO Se va a mostrar el pedido
+2023-08-25 10:37:30.9782 INFO Pedido encontrado
+2023-08-25 10:43:39.6194 INFO Pedido encontrado
+2023-08-25 10:43:39.6194 INFO Se va a mostrar el pedido
+2023-08-25 10:43:39.6194 INFO Pedido encontrado
+2023-08-25 10:44:18.5853 INFO Pedido encontrado
+2023-08-25 10:44:18.5853 INFO Se va a mostrar el pedido
+2023-08-25 10:44:18.6459 INFO Pedido encontrado
+2023-08-25 10:45:11.0243 INFO Pedido encontrado
+2023-08-25 10:45:11.0243 INFO Se va a mostrar el pedido
+2023-08-25 10:45:11.0243 INFO Pedido encontrado
+2023-08-25 10:45:29.5148 INFO Pedido encontrado
+2023-08-25 10:45:29.5148 INFO Se va a mostrar el pedido
+2023-08-25 10:45:29.5454 INFO Pedido encontrado
+2023-08-25 10:47:39.4251 INFO Pedido encontrado
+2023-08-25 10:47:39.4251 INFO Se va a mostrar el pedido
+2023-08-25 10:47:39.4505 INFO Pedido encontrado
+2023-08-25 10:47:42.7655 INFO Pedido encontrado
+2023-08-25 10:47:42.7655 INFO Se va a mostrar el pedido
+2023-08-25 10:47:42.7758 INFO Pedido encontrado
+2023-08-25 10:48:43.4970 INFO Pedido encontrado
+2023-08-25 10:48:43.4970 INFO Se va a mostrar el pedido
+2023-08-25 10:48:43.5222 INFO Pedido encontrado
+2023-08-25 10:50:48.0257 INFO Se va a mostrar la lista de componentes
+2023-08-25 10:50:59.7244 INFO Pedido encontrado
+2023-08-25 10:50:59.7244 INFO Se va a mostrar el pedido
+2023-08-25 10:50:59.7736 INFO Pedido encontrado
+2023-08-25 10:51:36.4356 INFO Pedido encontrado
+2023-08-25 10:53:08.9782 INFO Pedido encontrado
+2023-08-25 10:53:13.4665 INFO Pedido encontrado
+2023-08-25 10:53:13.4665 INFO Se va a mostrar el pedido
+2023-08-25 10:53:13.4665 INFO Pedido encontrado
+2023-08-25 10:53:17.8645 INFO Pedido encontrado
+2023-08-25 10:53:17.8645 INFO Se va a mostrar el pedido
+2023-08-25 10:53:17.8720 INFO Pedido encontrado
+2023-08-25 10:53:46.2753 INFO Pedido encontrado
+2023-08-25 11:00:02.2626 INFO Pedido encontrado
+2023-08-25 11:00:09.2503 INFO Ordenador encontrado
+2023-08-25 11:12:44.9456 INFO Se va a mostrar la lista de componentes
+2023-08-25 11:13:27.1751 INFO Componente encontrado
+2023-08-25 11:13:32.3770 INFO Ordenador encontrado
+2023-08-25 11:15:24.8533 INFO Ordenador encontrado
+2023-08-25 11:16:37.8249 INFO Se va a mostrar la lista de componentes
+2023-08-25 11:19:00.8947 INFO Ordenador encontrado
+2023-08-25 11:22:48.8826 INFO Ordenador encontrado
+2023-08-25 11:23:10.1969 INFO Ordenador encontrado
+2023-08-25 11:24:27.6217 INFO Ordenador encontrado
+2023-08-25 11:24:43.8867 INFO Ordenador encontrado
+2023-08-25 11:27:04.8976 INFO Ordenador encontrado
+2023-08-25 11:28:57.8009 INFO Ordenador encontrado
+2023-08-25 11:34:48.0040 INFO Ordenador encontrado
+2023-08-25 11:38:24.7071 INFO Pedido encontrado
+2023-08-25 11:38:24.7071 INFO Se va a mostrar el pedido
+2023-08-25 11:38:24.7688 INFO Pedido encontrado
+2023-08-25 11:39:06.8935 INFO Pedido encontrado
+2023-08-25 11:42:32.5903 INFO Ordenador encontrado
+2023-08-25 11:42:39.4594 INFO Se va a mostrar la lista de componentes
+2023-08-25 11:42:42.3295 INFO Componente encontrado
+2023-08-25 11:43:34.0935 INFO Se va a mostrar la lista de componentes
+2023-08-25 11:43:36.5330 INFO Componente encontrado
+2023-08-25 12:02:16.4826 INFO Se va a mostrar la lista de componentes
+2023-08-25 12:02:31.9516 INFO Componente encontrado
+2023-08-25 12:03:14.2683 INFO Se va a mostrar la lista de componentes
+2023-08-25 12:03:14.3184 INFO Se va a mostrar la lista de componentes
+2023-08-25 12:03:14.4064 INFO Se va a mostrar la lista de componentes
+2023-08-25 12:04:06.7163 INFO Se va a mostrar la lista de componentes
+2023-08-25 12:06:49.1039 INFO Se va a mostrar la lista de componentes
+2023-08-25 12:07:00.4161 INFO Componente encontrado
+2023-08-25 12:07:11.3400 INFO Se va a mostrar la lista de componentes
+2023-08-25 12:07:15.3867 INFO Componente encontrado
+2023-08-25 12:07:18.1093 INFO Se va a mostrar la lista de componentes
+2023-08-25 12:07:25.9267 INFO Se va a mostrar la lista de componentes
+2023-08-25 12:17:50.6669 INFO Componente encontrado
+2023-08-25 12:23:21.4000 INFO Se va a mostrar la lista de componentes
+2023-08-25 12:23:34.7052 INFO Componente encontrado
+2023-08-25 12:27:14.8079 INFO Se va a mostrar la lista de componentes
+2023-08-25 12:27:32.6350 INFO Componente encontrado
+2023-08-25 12:30:35.0435 INFO Se va a mostrar la lista de componentes
+2023-08-25 12:30:52.1025 INFO Componente encontrado
+2023-08-25 12:31:15.9611 INFO Se va a mostrar la lista de componentes
+2023-08-25 12:35:18.9247 INFO Se va a mostrar la lista de componentes
+2023-08-25 12:35:32.5349 INFO Componente encontrado
+2023-08-25 12:35:41.1568 INFO Se va a mostrar la lista de componentes
+2023-08-25 12:35:45.4911 INFO Componente encontrado
+2023-08-25 12:35:49.4258 INFO Se va a mostrar la lista de componentes
+2023-08-25 12:36:02.4599 INFO Componente encontrado
+2023-08-25 12:36:06.5488 INFO Se va a mostrar la lista de componentes
+2023-08-25 12:38:18.5579 INFO Se va a mostrar la lista de componentes
+2023-08-25 12:38:34.2256 INFO Pedido encontrado
+2023-08-25 12:41:14.7122 INFO Pedido encontrado
+2023-08-25 12:57:12.6831 INFO Pedido encontrado
+2023-08-25 12:57:16.5589 INFO Pedido encontrado
+2023-08-25 12:57:16.5589 INFO Se va a mostrar el pedido
+2023-08-25 12:57:16.6170 INFO Pedido encontrado
+2023-08-25 12:59:46.6286 INFO Se va a mostrar la lista de componentes
+2023-08-25 12:59:48.6550 INFO Componente encontrado
+2023-08-25 12:59:52.2247 INFO Se va a mostrar la lista de componentes
+2023-08-25 13:27:49.6846 INFO Se va a mostrar la lista de componentes
+2023-08-25 13:28:37.4640 INFO Pedido encontrado
+2023-08-25 13:28:37.4640 INFO Se va a mostrar el pedido
+2023-08-25 13:28:37.5086 INFO Pedido encontrado
+2023-08-25 13:59:23.4313 INFO Se va a mostrar la lista de componentes
+2023-08-25 13:59:59.3222 INFO Pedido encontrado
+2023-08-25 13:59:59.3222 INFO Se va a mostrar el pedido
+2023-08-25 13:59:59.4035 INFO Pedido encontrado
+2023-08-25 14:07:40.0408 INFO Se va a mostrar la lista de componentes
+2023-08-25 14:08:06.5091 INFO Pedido encontrado
+2023-08-25 14:08:06.5091 INFO Se va a mostrar el pedido
+2023-08-25 14:08:06.5615 INFO Pedido encontrado
+2023-08-25 14:08:14.5445 INFO Pedido encontrado
+2023-08-25 14:08:14.5445 INFO Se va a mostrar el pedido
+2023-08-25 14:08:14.5445 INFO Pedido encontrado
+2023-08-25 14:10:40.3856 INFO Se va a mostrar la lista de componentes
+2023-08-25 14:10:50.4292 INFO Pedido encontrado
+2023-08-25 14:10:50.4310 INFO Se va a mostrar el pedido
+2023-08-25 14:10:50.4714 INFO Pedido encontrado
+2023-08-25 14:10:52.5447 INFO Pedido encontrado
+2023-08-25 14:10:56.4272 INFO Pedido actualizado
+2023-08-25 14:10:56.5844 INFO Pedido actualizado
+2023-08-25 14:12:06.3176 INFO Se va a mostrar la lista de componentes
+2023-08-25 14:12:11.7620 INFO Ordenador encontrado
+2023-08-25 14:44:00.4492 INFO Se va a mostrar la lista de componentes
+2023-08-25 14:45:04.9352 INFO Ordenador encontrado
+2023-08-25 14:47:40.6538 INFO Ordenador encontrado
+2023-08-25 14:47:44.6988 INFO Ordenador encontrado
+2023-08-25 14:48:39.3860 INFO Ordenador encontrado
+2023-08-25 14:48:40.3817 INFO Ordenador encontrado
+2023-08-25 14:50:45.7476 INFO Ordenador encontrado
+2023-08-25 14:53:52.9780 INFO Se va a mostrar la lista de componentes
+2023-08-25 14:54:06.3055 INFO Ordenador encontrado
+2023-08-25 14:54:58.4739 ERROR El ordenador no se ha podido editar
+2023-08-25 14:57:40.6692 INFO Ordenador encontrado
+2023-08-25 15:03:37.4932 INFO Se va a mostrar la lista de componentes
+2023-08-25 15:03:52.2915 INFO Se va a mostrar la lista de componentes
+2023-08-25 15:03:56.0821 INFO Ordenador encontrado
+2023-08-25 15:03:59.3408 ERROR El ordenador no se ha podido editar
+2023-08-25 15:05:20.2245 INFO Ordenador encontrado

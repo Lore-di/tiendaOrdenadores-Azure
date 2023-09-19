@@ -1,0 +1,76 @@
+2023-08-23 09:09:45.4925 INFO Se va a mostrar la lista de componentes
+2023-08-23 09:13:38.6357 INFO Se va a mostrar la lista de componentes
+2023-08-23 09:13:53.1470 INFO Se va a mostrar la lista de componentes
+2023-08-23 09:15:48.6313 INFO Se va a mostrar la lista de componentes
+2023-08-23 09:21:06.6337 INFO Se va a mostrar la lista de componentes
+2023-08-23 09:21:12.6383 INFO Se va a mostrar la lista de componentes
+2023-08-23 09:21:58.7832 INFO Se va a mostrar la lista de componentes
+2023-08-23 09:26:11.4795 INFO Se va a mostrar la lista de componentes
+2023-08-23 09:28:12.7018 INFO Se va a mostrar la lista de componentes
+2023-08-23 09:28:17.5836 INFO Se va a mostrar la lista de componentes
+2023-08-23 09:32:49.9146 INFO Se va a mostrar la lista de componentes
+2023-08-23 09:33:10.7763 INFO Se va a mostrar la lista de componentes
+2023-08-23 10:03:31.7285 INFO Se va a mostrar la lista de componentes
+2023-08-23 10:05:06.6805 INFO Se va a mostrar la lista de componentes
+2023-08-23 10:06:33.8102 INFO Se va a mostrar la lista de componentes
+2023-08-23 10:45:54.7712 INFO Se va a mostrar la lista de componentes
+2023-08-23 10:45:59.9956 INFO Se va a mostrar la lista de componentes
+2023-08-23 10:46:05.0489 INFO Se va a mostrar la lista de componentes
+2023-08-23 10:46:30.8872 INFO Se va a mostrar la lista de componentes
+2023-08-23 10:46:44.5423 INFO Se va a mostrar la lista de componentes
+2023-08-23 10:46:59.1544 INFO Se va a mostrar la lista de componentes
+2023-08-23 10:47:03.6131 INFO Se va a mostrar la lista de componentes
+2023-08-23 10:47:11.8335 INFO Se va a mostrar la lista de componentes
+2023-08-23 10:51:20.3703 INFO Se va a mostrar la lista de componentes
+2023-08-23 10:59:51.7818 INFO Se va a mostrar la lista de componentes
+2023-08-23 11:00:18.1264 INFO Se va a mostrar la lista de componentes
+2023-08-23 13:11:11.6746 INFO Se va a mostrar la lista de componentes
+2023-08-23 14:04:48.8216 INFO Se va a mostrar la lista de componentes
+2023-08-23 14:05:07.8565 INFO Ordenador encontrado
+2023-08-23 14:05:10.2507 INFO Ordenador encontrado
+2023-08-23 14:05:10.2827 INFO Ordenador eliminado
+2023-08-23 14:05:10.5445 INFO Ordenador eliminado
+2023-08-23 14:05:12.3792 INFO Ordenador encontrado
+2023-08-23 14:05:14.1675 INFO Ordenador encontrado
+2023-08-23 14:05:14.1675 INFO Ordenador eliminado
+2023-08-23 14:05:14.1675 INFO Ordenador eliminado
+2023-08-23 14:07:58.3335 INFO Componente encontrado
+2023-08-23 14:08:07.6918 INFO Componente encontrado
+2023-08-23 14:14:18.1420 INFO Se va a mostrar la lista de componentes
+2023-08-23 14:14:22.1668 INFO Se va a mostrar la lista de componentes
+2023-08-23 14:14:26.8451 INFO Se va a mostrar la lista de componentes
+2023-08-23 14:14:47.2615 INFO Componente encontrado
+2023-08-23 14:14:52.9351 INFO Se va a mostrar la lista de componentes
+2023-08-23 14:15:04.1863 INFO Componente encontrado
+2023-08-23 14:15:11.1524 INFO Componente encontrado
+2023-08-23 14:15:29.2463 INFO Pedido encontrado
+2023-08-23 14:15:39.2191 INFO Pedido actualizado
+2023-08-23 14:15:39.2770 INFO Pedido actualizado
+2023-08-23 14:15:45.3263 INFO Pedido encontrado
+2023-08-23 14:15:45.3263 INFO Se va a mostrar el pedido
+2023-08-23 14:15:55.1870 INFO Pedido encontrado
+2023-08-23 14:16:04.8597 INFO Pedido actualizado
+2023-08-23 14:16:04.8747 INFO Pedido actualizado
+2023-08-23 14:16:07.3883 INFO Pedido encontrado
+2023-08-23 14:16:13.1540 INFO Pedido actualizado
+2023-08-23 14:16:13.1684 INFO Pedido actualizado
+2023-08-23 14:16:21.7580 INFO Se va a mostrar la lista de componentes
+2023-08-23 14:19:50.5918 INFO Se va a mostrar la lista de componentes
+2023-08-23 14:22:47.4821 INFO Se va a mostrar la lista de componentes
+2023-08-23 14:22:50.8624 INFO Se va a mostrar la lista de componentes
+2023-08-23 14:27:54.5623 INFO Se va a mostrar la lista de componentes
+2023-08-23 14:29:20.2095 INFO Se va a mostrar la lista de componentes
+2023-08-23 14:29:52.9135 INFO Se va a mostrar la lista de componentes
+2023-08-23 14:29:56.8137 INFO Se va a mostrar la lista de componentes
+2023-08-23 14:32:20.0346 INFO Se va a mostrar la lista de componentes
+2023-08-23 14:32:59.8594 INFO Se va a mostrar la lista de componentes
+2023-08-23 14:33:08.8496 INFO Se va a mostrar la lista de componentes
+2023-08-23 14:33:10.6201 INFO Se va a mostrar la lista de componentes
+2023-08-23 17:37:26.9809 INFO Se va a mostrar la lista de componentes
+2023-08-23 17:38:42.1875 INFO Se va a mostrar la lista de componentes
+2023-08-23 18:52:38.3910 INFO Se va a mostrar la lista de componentes
+2023-08-23 18:53:08.5862 INFO Se va a mostrar la lista de componentes
+2023-08-23 18:53:40.0262 INFO Se va a mostrar la lista de componentes
+2023-08-23 18:54:48.5357 INFO Se va a mostrar la lista de componentes
+2023-08-23 18:56:29.5994 INFO Se va a mostrar la lista de componentes
+2023-08-23 18:57:05.0562 INFO Se va a mostrar la lista de componentes

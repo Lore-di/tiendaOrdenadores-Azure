@@ -1,0 +1,10 @@
+﻿@using TiendaA01.ViewComponents
+@model IEnumerable<TiendaA01.Models.Componente>
+
+@{
+    ViewData["Title"] = "Componentes Detallados";
+}
+
+<div>
+    @await Component.InvokeAsync(typeof(ComponentesDetalladosViewComponent))
+</div>

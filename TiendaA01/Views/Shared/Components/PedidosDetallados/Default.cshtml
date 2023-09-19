@@ -1,0 +1,41 @@
+﻿@model TiendaA01.ViewModels.PedidoDetalladoViewModel
+
+<div class="flex-container">
+    <div class="order-summary special">
+        <h2>@Model.Pedido.NombrePedido</h2><br/>
+        <h4>Cliente: @Model.Pedido.Cliente</h4>
+        <h4>Precio total del pedido: @Model.Precio euros</h4>
+    </div>
+</div>
+<div class="flex-container">
+    @foreach (var ordenador in Model.Pedido.Ordenadores)
+    {
+        <div class="flex-items foreach-item">
+            <img id="imagen-@ordenador.Id" class="random-image" alt="imagen de un ordenador">
+            <p>@ordenador.Descripcion</p>
+        </div>
+    }
+</div>
+
+<script>
+    
+    var imagenes = ["pcmaria.jpeg", "pc2.jpeg", "pc3.jpeg", "pc4.jpeg"];
+
+    function obtenerIndiceAleatorio(max) {
+        return Math.floor(Math.random() * max);
+    }
+
+    function cargarImagenAleatoria(elementId) {
+        var imagenElement = document.getElementById(elementId);
+        if (imagenElement) {
+            var indiceAleatorio = obtenerIndiceAleatorio(imagenes.length);
+            var imagenAleatoria = imagenes[indiceAleatorio];
+            imagenElement.src = "/img/" + imagenAleatoria;
+        }
+    }
+
+    var elementosImagen = document.querySelectorAll(".random-image");
+    elementosImagen.forEach(function (elemento) {
+        cargarImagenAleatoria(elemento.id);
+    });
+</script>

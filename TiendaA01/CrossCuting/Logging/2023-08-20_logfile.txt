@@ -1,0 +1,21 @@
+2023-08-20 13:14:05.1566 INFO Se va a mostrar la lista de componentes
+2023-08-20 13:14:30.5466 INFO Se va a mostrar la lista de componentes
+2023-08-20 14:19:07.9426 INFO Se va a mostrar la lista de componentes
+2023-08-20 14:21:08.0809 INFO Pedido añadido
+2023-08-20 14:21:08.7789 INFO Pedido creado
+2023-08-20 16:16:41.1572 INFO Se va a mostrar la lista de componentes
+2023-08-20 17:10:11.0311 INFO Se va a mostrar la lista de componentes
+2023-08-20 17:12:48.8478 INFO Se va a mostrar la lista de componentes
+2023-08-20 17:31:06.2474 INFO Se va a mostrar la lista de componentes
+2023-08-20 17:31:20.7576 INFO Pedido encontrado
+2023-08-20 17:31:24.2151 INFO Pedido actualizado
+2023-08-20 17:31:24.3743 INFO Pedido actualizado
+2023-08-20 17:32:48.1835 INFO Se va a mostrar la lista de componentes
+2023-08-20 17:33:06.9533 INFO Ordenador creado
+2023-08-20 17:33:07.3810 ERROR El ordenador no se ha podido crear
+2023-08-20 18:32:34.6684 INFO Se va a mostrar la lista de componentes
+2023-08-20 18:49:01.1714 INFO Se va a mostrar la lista de componentes
+2023-08-20 19:12:47.7864 INFO Se va a mostrar la lista de componentes
+2023-08-20 19:13:51.1525 INFO Se va a mostrar la lista de componentes
+2023-08-20 19:22:49.1445 INFO Se va a mostrar la lista de componentes
+2023-08-20 19:23:59.9052 INFO Se va a mostrar la lista de componentes

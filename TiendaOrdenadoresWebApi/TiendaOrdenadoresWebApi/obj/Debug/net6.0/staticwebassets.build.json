@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GBYAB5DxBmsuIccESLnJIyerJ06bhWZ4NsoUEu9J+qY=",
+  "Source": "TiendaOrdenadoresWebApi",
+  "BasePath": "_content/TiendaOrdenadoresWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

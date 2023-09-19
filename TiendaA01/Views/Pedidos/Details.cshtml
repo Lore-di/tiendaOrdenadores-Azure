@@ -1,0 +1,15 @@
+﻿@using TiendaA01.ViewComponents
+@model TiendaA01.Models.Pedido
+
+@{
+    ViewData["Title"] = "ComponenteDetails";
+}
+
+<div>
+    @await Component.InvokeAsync("PedidosDetallados", new {pedidoId = Model.Id} )
+</div>
+
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Editar</a> |
+    <a asp-action="Index">Volver a pedidos</a>
+</div>

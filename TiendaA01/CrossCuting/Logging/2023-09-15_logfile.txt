@@ -1,0 +1,8 @@
+2023-09-15 15:51:05.8921 INFO Se va a mostrar la lista de componentes
+2023-09-15 15:51:16.8258 INFO Se va a mostrar la lista de componentes
+2023-09-15 15:51:21.1087 INFO Ordenador encontrado
+2023-09-15 15:51:25.3974 INFO Pedido encontrado
+2023-09-15 15:51:29.1846 INFO Se va a mostrar la lista de componentes
+2023-09-15 16:35:05.2144 INFO Se va a mostrar la lista de componentes
+2023-09-15 16:35:14.7237 INFO Se va a mostrar la lista de componentes
+2023-09-15 16:38:31.4003 INFO Se va a mostrar la lista de componentes

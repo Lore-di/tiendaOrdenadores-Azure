@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2023-08-02T12:20:19.1185424Z"
+    },
+    "appInsights1": {
+      "restored": true,
+      "restoreTime": "2023-09-15T15:07:48.9259025Z"
+    }
+  },
+  "parameters": {
+    "appInsights1.resourceGroupName": {
+      "Name": "appInsights1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "TiendaOrdenadores"
+    },
+    "appInsights1.subscriptionId": {
+      "Name": "appInsights1.subscriptionId",
+      "Type": "subscription",
+      "Value": "6ea22047-d715-4239-abab-3e4189106f2c"
+    }
+  }
+}
